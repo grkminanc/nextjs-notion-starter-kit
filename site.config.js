@@ -14,7 +14,7 @@ module.exports = {
   // open graph metadata (optional)
   description: 'Notlar',
   socialImageTitle: 'Görkem İnanç Özdemir',
-  socialImageSubtitle: 'Hello World! 👋',
+  socialImageSubtitle: 'Merhaba Dünya! 👋',
 
   // social usernames (optional)
   twitter: 'gorkem_io',
